@@ -1,0 +1,9 @@
+metadata-version = "1.0"
+
+[artifact]
+  name = "test-writer"
+  version = "2.0"
+  type = "skill"
+
+[skill]
+  prompt-file = "SKILL.md"
