@@ -6,3 +6,8 @@ created-by = "skills-cli/0.1.0"
   name = "test-writer"
   version = "1.0.0"
   type = "skill"
+
+[[artifacts]]
+  name = "test-writer"
+  version = "1.0"
+  type = "skill"
