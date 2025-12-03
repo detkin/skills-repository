@@ -44,3 +44,13 @@ created-by = "skills/dev"
 
   [[artifacts.repositories]]
     repo = "https://github.com/sleuth-io/pulse"
+
+[[artifacts]]
+  name = "search-object"
+  version = "1.0"
+  type = "skill"
+  [artifacts.source-path]
+    path = "./artifacts/search-object/1.0"
+
+  [[artifacts.repositories]]
+    repo = "https://github.com/sleuth-io/pulse"
