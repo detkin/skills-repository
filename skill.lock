@@ -12,11 +12,4 @@ created-by = "skills/dev"
 [[installations]]
   artifact = "test-writer"
   version = "3.0"
-  scope = "repo"
-  repo = "https://github.com/sleuth-io/pulse"
-
-[[installations]]
-  artifact = "test-writer"
-  version = "3.0"
-  scope = "repo"
-  repo = "https://github.com/sleuth-io/sleuth"
+  scope = "global"
