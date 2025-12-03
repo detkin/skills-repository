@@ -8,9 +8,3 @@ created-by = "skills/dev"
   type = "skill"
   [artifacts.source-path]
     path = "./artifacts/test-writer/3.0"
-
-  [[artifacts.repositories]]
-    repo = "https://github.com/sleuth-io/pulse"
-
-  [[artifacts.repositories]]
-    repo = "https://github.com/sleuth-io/sleuth"
