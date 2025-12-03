@@ -27,3 +27,10 @@ created-by = "skills/dev"
 
   [[artifacts.repositories]]
     repo = "https://github.com/sleuth-io/sleuth"
+
+[[artifacts]]
+  name = "patterned-skill-creator"
+  version = "1.0"
+  type = "skill"
+  [artifacts.source-path]
+    path = "./artifacts/patterned-skill-creator/1.0"
