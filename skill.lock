@@ -67,3 +67,13 @@ created-by = "skills/dev"
 
   [[artifacts.repositories]]
     repo = "https://github.com/sleuth-io/sleuth"
+
+[[artifacts]]
+  name = "chat"
+  version = "1.0"
+  type = "skill"
+  [artifacts.source-path]
+    path = "./artifacts/chat/1.0"
+
+  [[artifacts.repositories]]
+    repo = "https://github.com/sleuth-io/pulse"
