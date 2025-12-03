@@ -34,3 +34,13 @@ created-by = "skills/dev"
   type = "skill"
   [artifacts.source-path]
     path = "./artifacts/patterned-skill-creator/1.0"
+
+[[artifacts]]
+  name = "pql"
+  version = "1.0"
+  type = "skill"
+  [artifacts.source-path]
+    path = "./artifacts/pql/1.0"
+
+  [[artifacts.repositories]]
+    repo = "https://github.com/sleuth-io/pulse"
