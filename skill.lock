@@ -11,3 +11,6 @@ created-by = "skills/dev"
 
   [[artifacts.repositories]]
     repo = "https://github.com/sleuth-io/pulse"
+
+  [[artifacts.repositories]]
+    repo = "https://github.com/sleuth-io/sleuth"
