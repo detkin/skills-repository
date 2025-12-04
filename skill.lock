@@ -123,3 +123,16 @@ created-by = "skills/dev"
 
   [[artifacts.repositories]]
     repo = "https://github.com/sleuth-io/pulse"
+
+[[artifacts]]
+  name = "test-writer"
+  version = "4.0"
+  type = "skill"
+  [artifacts.source-path]
+    path = "./artifacts/test-writer/4.0"
+
+  [[artifacts.repositories]]
+    repo = "https://github.com/sleuth-io/pulse"
+
+  [[artifacts.repositories]]
+    repo = "https://github.com/sleuth-io/sleuth"
