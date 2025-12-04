@@ -87,3 +87,16 @@ created-by = "skills/dev"
 
   [[artifacts.repositories]]
     repo = "https://github.com/sleuth-io/pulse"
+
+[[artifacts]]
+  name = "coding-standards"
+  version = "2.0"
+  type = "skill"
+  [artifacts.source-path]
+    path = "./artifacts/coding-standards/2.0"
+
+  [[artifacts.repositories]]
+    repo = "https://github.com/sleuth-io/pulse"
+
+  [[artifacts.repositories]]
+    repo = "https://github.com/sleuth-io/sleuth"
