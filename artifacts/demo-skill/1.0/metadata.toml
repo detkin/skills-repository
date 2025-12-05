@@ -1,0 +1,9 @@
+metadata-version = "1.0"
+
+[artifact]
+  name = "demo-skill"
+  version = "1.0"
+  type = "skill"
+
+[skill]
+  prompt-file = "SKILL.md"
