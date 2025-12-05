@@ -1,4 +1,5 @@
 # Skills Artifact Repository
+<!-- Template version: 1 -->
 
 This repository contains artifacts (skills, agents, MCP servers, etc.) for use with the Skills CLI.
 
