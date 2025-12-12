@@ -146,3 +146,10 @@ created-by = "skills/dev"
 
   [[artifacts.repositories]]
     repo = "https://github.com/sleuth-io/pulse"
+
+[[artifacts]]
+  name = "docs-write"
+  version = "1.0"
+  type = "skill"
+  [artifacts.source-path]
+    path = "./artifacts/docs-write/1.0"
