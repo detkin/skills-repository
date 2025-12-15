@@ -66,19 +66,6 @@ created-by = "skills/dev"
     repo = "https://github.com/sleuth-io/pulse"
 
 [[artifacts]]
-  name = "test-writer"
-  version = "3.0"
-  type = "skill"
-  [artifacts.source-path]
-    path = "./artifacts/test-writer/3.0"
-
-  [[artifacts.repositories]]
-    repo = "https://github.com/sleuth-io/pulse"
-
-  [[artifacts.repositories]]
-    repo = "https://github.com/sleuth-io/sleuth"
-
-[[artifacts]]
   name = "chat"
   version = "2.0"
   type = "skill"
@@ -160,3 +147,10 @@ created-by = "skills/dev"
   type = "skill"
   [artifacts.source-path]
     path = "./artifacts/test-driven-development/1.0"
+
+[[artifacts]]
+  name = "test-writer"
+  version = "3.0"
+  type = "skill"
+  [artifacts.source-path]
+    path = "./artifacts/test-writer/3.0"
