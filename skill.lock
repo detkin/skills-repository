@@ -134,3 +134,10 @@ created-by = "skills/dev"
   type = "skill"
   [artifacts.source-path]
     path = "./artifacts/test-driven-development/1.0"
+
+[[artifacts]]
+  name = "test-writer"
+  version = "4.0"
+  type = "skill"
+  [artifacts.source-path]
+    path = "./artifacts/test-writer/4.0"
