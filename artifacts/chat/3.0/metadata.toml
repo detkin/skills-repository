@@ -2,7 +2,7 @@ metadata-version = "1.0"
 
 [artifact]
   name = "chat"
-  version = "1.0"
+  version = "3.0"
   type = "skill"
 
 [skill]

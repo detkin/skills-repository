@@ -2,7 +2,7 @@ metadata-version = "1.0"
 
 [artifact]
   name = "test-writer"
-  version = "3.0"
+  version = "4.0"
   type = "skill"
 
 [skill]
