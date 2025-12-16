@@ -129,13 +129,6 @@ created-by = "skills/dev"
     path = "./artifacts/docs-write/1.0"
 
 [[artifacts]]
-  name = "test-driven-development"
-  version = "1.0"
-  type = "skill"
-  [artifacts.source-path]
-    path = "./artifacts/test-driven-development/1.0"
-
-[[artifacts]]
   name = "test-writer"
   version = "4.0"
   type = "skill"
@@ -147,3 +140,10 @@ created-by = "skills/dev"
 
   [[artifacts.repositories]]
     repo = "https://github.com/sleuth-io/sleuth"
+
+[[artifacts]]
+  name = "test-driven-development"
+  version = "1.0"
+  type = "skill"
+  [artifacts.source-path]
+    path = "./artifacts/test-driven-development/1.0"
