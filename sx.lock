@@ -143,10 +143,3 @@ created-by = "skills/dev"
 
   [[assets.scopes]]
     repo = "https://github.com/sleuth-io/pulse"
-
-[[assets]]
-  name = "test-driven-development"
-  version = "1.0"
-  type = "skill"
-  [assets.source-path]
-    path = "./assets/test-driven-development/1.0"
