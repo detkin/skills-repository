@@ -2,151 +2,151 @@ lock-version = "1.0"
 version = "1"
 created-by = "skills/dev"
 
-[[artifacts]]
+[[assets]]
   name = "coding-standards"
   version = "1.0"
   type = "skill"
-  [artifacts.source-path]
-    path = "./artifacts/coding-standards/1.0"
+  [assets.source-path]
+    path = "./assets/coding-standards/1.0"
 
-  [[artifacts.repositories]]
+  [[assets.scopes]]
     repo = "https://github.com/sleuth-io/pulse"
 
-  [[artifacts.repositories]]
+  [[assets.scopes]]
     repo = "https://github.com/sleuth-io/sleuth"
 
-[[artifacts]]
+[[assets]]
   name = "patterned-skill-creator"
   version = "1.0"
   type = "skill"
-  [artifacts.source-path]
-    path = "./artifacts/patterned-skill-creator/1.0"
+  [assets.source-path]
+    path = "./assets/patterned-skill-creator/1.0"
 
-[[artifacts]]
+[[assets]]
   name = "pql"
   version = "1.0"
   type = "skill"
-  [artifacts.source-path]
-    path = "./artifacts/pql/1.0"
+  [assets.source-path]
+    path = "./assets/pql/1.0"
 
-  [[artifacts.repositories]]
+  [[assets.scopes]]
     repo = "https://github.com/sleuth-io/pulse"
 
-[[artifacts]]
+[[assets]]
   name = "search-object"
   version = "1.0"
   type = "skill"
-  [artifacts.source-path]
-    path = "./artifacts/search-object/1.0"
+  [assets.source-path]
+    path = "./assets/search-object/1.0"
 
-  [[artifacts.repositories]]
+  [[assets.scopes]]
     repo = "https://github.com/sleuth-io/pulse"
 
-[[artifacts]]
+[[assets]]
   name = "graphql-field"
   version = "1.0"
   type = "skill"
-  [artifacts.source-path]
-    path = "./artifacts/graphql-field/1.0"
+  [assets.source-path]
+    path = "./assets/graphql-field/1.0"
 
-  [[artifacts.repositories]]
+  [[assets.scopes]]
     repo = "https://github.com/sleuth-io/pulse"
 
-  [[artifacts.repositories]]
+  [[assets.scopes]]
     repo = "https://github.com/sleuth-io/sleuth"
 
-[[artifacts]]
+[[assets]]
   name = "chat"
   version = "1.0"
   type = "skill"
-  [artifacts.source-path]
-    path = "./artifacts/chat/1.0"
+  [assets.source-path]
+    path = "./assets/chat/1.0"
 
-  [[artifacts.repositories]]
+  [[assets.scopes]]
     repo = "https://github.com/sleuth-io/pulse"
 
-[[artifacts]]
+[[assets]]
   name = "chat"
   version = "2.0"
   type = "skill"
-  [artifacts.source-path]
-    path = "./artifacts/chat/2.0"
+  [assets.source-path]
+    path = "./assets/chat/2.0"
 
-  [[artifacts.repositories]]
+  [[assets.scopes]]
     repo = "https://github.com/sleuth-io/pulse"
 
-[[artifacts]]
+[[assets]]
   name = "coding-standards"
   version = "2.0"
   type = "skill"
-  [artifacts.source-path]
-    path = "./artifacts/coding-standards/2.0"
+  [assets.source-path]
+    path = "./assets/coding-standards/2.0"
 
-  [[artifacts.repositories]]
+  [[assets.scopes]]
     repo = "https://github.com/sleuth-io/pulse"
 
-  [[artifacts.repositories]]
+  [[assets.scopes]]
     repo = "https://github.com/sleuth-io/sleuth"
 
-[[artifacts]]
+[[assets]]
   name = "graphql-field"
   version = "2.0"
   type = "skill"
-  [artifacts.source-path]
-    path = "./artifacts/graphql-field/2.0"
+  [assets.source-path]
+    path = "./assets/graphql-field/2.0"
 
-  [[artifacts.repositories]]
+  [[assets.scopes]]
     repo = "https://github.com/sleuth-io/pulse"
 
-  [[artifacts.repositories]]
+  [[assets.scopes]]
     repo = "https://github.com/sleuth-io/sleuth"
 
-[[artifacts]]
+[[assets]]
   name = "search-object"
   version = "2.0"
   type = "skill"
-  [artifacts.source-path]
-    path = "./artifacts/search-object/2.0"
+  [assets.source-path]
+    path = "./assets/search-object/2.0"
 
-  [[artifacts.repositories]]
+  [[assets.scopes]]
     repo = "https://github.com/sleuth-io/pulse"
 
-[[artifacts]]
+[[assets]]
   name = "chat"
   version = "3.0"
   type = "skill"
-  [artifacts.source-path]
-    path = "./artifacts/chat/3.0"
+  [assets.source-path]
+    path = "./assets/chat/3.0"
 
-  [[artifacts.repositories]]
+  [[assets.scopes]]
     repo = "https://github.com/sleuth-io/pulse"
 
-[[artifacts]]
+[[assets]]
   name = "test-writer"
   version = "4.0"
   type = "skill"
-  [artifacts.source-path]
-    path = "./artifacts/test-writer/4.0"
+  [assets.source-path]
+    path = "./assets/test-writer/4.0"
 
-  [[artifacts.repositories]]
+  [[assets.scopes]]
     repo = "https://github.com/sleuth-io/pulse"
 
-  [[artifacts.repositories]]
+  [[assets.scopes]]
     repo = "https://github.com/sleuth-io/sleuth"
 
-[[artifacts]]
+[[assets]]
   name = "test-driven-development"
   version = "1.0"
   type = "skill"
-  [artifacts.source-path]
-    path = "./artifacts/test-driven-development/1.0"
+  [assets.source-path]
+    path = "./assets/test-driven-development/1.0"
 
-[[artifacts]]
+[[assets]]
   name = "docs-write"
   version = "1.0"
   type = "skill"
-  [artifacts.source-path]
-    path = "./artifacts/docs-write/1.0"
+  [assets.source-path]
+    path = "./assets/docs-write/1.0"
 
-  [[artifacts.repositories]]
+  [[assets.scopes]]
     repo = "https://github.com/sleuth-io/pulse"
