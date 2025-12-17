@@ -150,3 +150,10 @@ created-by = "skills/dev"
   type = "skill"
   [assets.source-path]
     path = "./assets/test-driven-development/1.0"
+
+[[assets]]
+  name = "myskill"
+  version = "1.0"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/myskill/1.0"
