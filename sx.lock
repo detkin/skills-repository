@@ -160,3 +160,10 @@ created-by = "skills/dev"
 
   [[assets.scopes]]
     repo = "https://github.com/sleuth-io/sx"
+
+[[assets]]
+  name = "frontend-design"
+  version = "1.0"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/frontend-design/1.0"
