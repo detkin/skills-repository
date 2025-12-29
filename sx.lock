@@ -167,3 +167,10 @@ created-by = "skills/dev"
   type = "skill"
   [assets.source-path]
     path = "./assets/frontend-design/1.0"
+
+[[assets]]
+  name = "test-driven-development"
+  version = "2.0"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/test-driven-development/2.0"
