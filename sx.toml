@@ -201,5 +201,4 @@ created_by = "skills/v1.1.0-dirty"
 
 [[teams]]
   name = "frontend"
-  members = ["ines.panker@gmail.com"]
-  admins = ["ines.panker@gmail.com", "mzgajner@sleuth.io"]
+  admins = ["mzgajner@sleuth.io"]
