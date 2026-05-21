@@ -191,3 +191,10 @@ created_by = "skills/v1.1.0-dirty"
   type = "skill"
   [assets.source-path]
     path = "./assets/test-driven-development/2.0"
+
+[[assets]]
+  name = "check-sx-and-pulse-old"
+  version = "1"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/check-sx-and-pulse-old/1"
