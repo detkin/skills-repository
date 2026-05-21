@@ -1,0 +1,193 @@
+schema_version = 1
+created_by = "skills/v1.1.0-dirty"
+
+[[assets]]
+  name = "coding-standards"
+  version = "1.0"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/coding-standards/1.0"
+
+  [[assets.scopes]]
+    kind = "repo"
+    repo = "https://github.com/sleuth-io/pulse"
+
+  [[assets.scopes]]
+    kind = "repo"
+    repo = "https://github.com/sleuth-io/sleuth"
+
+[[assets]]
+  name = "patterned-skill-creator"
+  version = "1.0"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/patterned-skill-creator/1.0"
+
+[[assets]]
+  name = "pql"
+  version = "1.0"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/pql/1.0"
+
+  [[assets.scopes]]
+    kind = "repo"
+    repo = "https://github.com/sleuth-io/pulse"
+
+[[assets]]
+  name = "search-object"
+  version = "1.0"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/search-object/1.0"
+
+  [[assets.scopes]]
+    kind = "repo"
+    repo = "https://github.com/sleuth-io/pulse"
+
+[[assets]]
+  name = "graphql-field"
+  version = "1.0"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/graphql-field/1.0"
+
+  [[assets.scopes]]
+    kind = "repo"
+    repo = "https://github.com/sleuth-io/pulse"
+
+  [[assets.scopes]]
+    kind = "repo"
+    repo = "https://github.com/sleuth-io/sleuth"
+
+[[assets]]
+  name = "chat"
+  version = "1.0"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/chat/1.0"
+
+  [[assets.scopes]]
+    kind = "repo"
+    repo = "https://github.com/sleuth-io/pulse"
+
+[[assets]]
+  name = "chat"
+  version = "2.0"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/chat/2.0"
+
+  [[assets.scopes]]
+    kind = "repo"
+    repo = "https://github.com/sleuth-io/pulse"
+
+[[assets]]
+  name = "coding-standards"
+  version = "2.0"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/coding-standards/2.0"
+
+  [[assets.scopes]]
+    kind = "repo"
+    repo = "https://github.com/sleuth-io/pulse"
+
+  [[assets.scopes]]
+    kind = "repo"
+    repo = "https://github.com/sleuth-io/sleuth"
+
+[[assets]]
+  name = "graphql-field"
+  version = "2.0"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/graphql-field/2.0"
+
+  [[assets.scopes]]
+    kind = "repo"
+    repo = "https://github.com/sleuth-io/pulse"
+
+  [[assets.scopes]]
+    kind = "repo"
+    repo = "https://github.com/sleuth-io/sleuth"
+
+[[assets]]
+  name = "search-object"
+  version = "2.0"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/search-object/2.0"
+
+  [[assets.scopes]]
+    kind = "repo"
+    repo = "https://github.com/sleuth-io/pulse"
+
+[[assets]]
+  name = "chat"
+  version = "3.0"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/chat/3.0"
+
+  [[assets.scopes]]
+    kind = "repo"
+    repo = "https://github.com/sleuth-io/pulse"
+
+[[assets]]
+  name = "test-writer"
+  version = "4.0"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/test-writer/4.0"
+
+  [[assets.scopes]]
+    kind = "repo"
+    repo = "https://github.com/sleuth-io/pulse"
+
+  [[assets.scopes]]
+    kind = "repo"
+    repo = "https://github.com/sleuth-io/sleuth"
+
+[[assets]]
+  name = "docs-write"
+  version = "1.0"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/docs-write/1.0"
+
+  [[assets.scopes]]
+    kind = "repo"
+    repo = "https://github.com/sleuth-io/pulse"
+
+[[assets]]
+  name = "test-driven-development"
+  version = "1.0"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/test-driven-development/1.0"
+
+[[assets]]
+  name = "myagent"
+  version = "1.0"
+  type = "agent"
+  [assets.source-path]
+    path = "./assets/myagent/1.0"
+
+  [[assets.scopes]]
+    kind = "repo"
+    repo = "https://github.com/sleuth-io/sx"
+
+[[assets]]
+  name = "frontend-design"
+  version = "1.0"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/frontend-design/1.0"
+
+[[assets]]
+  name = "test-driven-development"
+  version = "2.0"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/test-driven-development/2.0"
