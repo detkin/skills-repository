@@ -198,3 +198,8 @@ created_by = "skills/v1.1.0-dirty"
   type = "skill"
   [assets.source-path]
     path = "./assets/check-sx-and-pulse-old/1"
+
+[[teams]]
+  name = "frontend"
+  members = ["ines.panker@gmail.com"]
+  admins = ["ines.panker@gmail.com", "mzgajner@sleuth.io"]
