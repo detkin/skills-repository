@@ -217,3 +217,8 @@ created_by = "skills/v1.1.0-dirty"
   name = "team-with-admin"
   members = ["ziga@sleuth.io"]
   admins = ["ziga@sleuth.io"]
+
+[[teams]]
+  name = "team-with-admin-2"
+  members = ["ziga@sleuth.io"]
+  admins = ["ziga@sleuth.io"]
