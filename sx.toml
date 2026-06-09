@@ -231,6 +231,10 @@ created_by = "skills/v1.1.0-dirty"
     repo = "github.com/sleuth-io/pulse"
     paths = ["apps/audit", "apps/dora"]
 
+  [[assets.scopes]]
+    kind = "bot"
+    bot = "bot-a"
+
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]
