@@ -9,3 +9,4 @@
 {"ts":"2026-06-09T12:43:14.260387787Z","actor":"ipanker@sleuth.io","event":"install.set","target_type":"installation","target":"personal-skill","profile":"gh","data":{"kind":"team","team":"team-without-admin"}}
 {"ts":"2026-06-09T12:45:53.026900835Z","actor":"ipanker@sleuth.io","event":"install.set","target_type":"installation","target":"personal-skill","profile":"gh","data":{"kind":"repo","repo":"https://github.com/sleuth-io/sleuth"}}
 {"ts":"2026-06-09T12:46:50.850704389Z","actor":"ipanker@sleuth.io","event":"install.set","target_type":"installation","target":"personal-skill","profile":"gh","data":{"kind":"path","paths":["apps/dora"],"repo":"https://github.com/sleuth-io/pulse apps/dora"}}
+{"ts":"2026-06-09T12:48:15.331917534Z","actor":"ipanker@sleuth.io","event":"install.removed","target_type":"installation","target":"personal-skill","profile":"gh","data":{"removed_count":1}}
