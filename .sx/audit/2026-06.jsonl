@@ -1,3 +1,4 @@
 {"ts":"2026-06-09T11:34:46.883957642Z","actor":"ines.panker@gmail.com","event":"install.set","target_type":"installation","target":"personal-skill","data":{"kind":"user","user":"ines.panker@gmail.com"}}
 {"ts":"2026-06-09T11:37:34.457890388Z","actor":"ines.panker@gmail.com","event":"install.set","target_type":"installation","target":"personal-skill","data":{"kind":"user","user":"ines.panker@gmail.com"}}
 {"ts":"2026-06-09T11:41:57.210041496Z","actor":"ipanker@sleuth.io","event":"install.set","target_type":"installation","target":"personal-skill","profile":"gh","data":{"kind":"user","user":"ipanker@sleuth.io"}}
+{"ts":"2026-06-09T11:42:34.392676504Z","actor":"ipanker@sleuth.io","event":"install.set","target_type":"installation","target":"personal-skill","profile":"gh","data":{"kind":"user","user":"ipanker@sleuth.io"}}
