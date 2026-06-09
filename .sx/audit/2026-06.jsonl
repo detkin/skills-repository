@@ -12,3 +12,4 @@
 {"ts":"2026-06-09T12:48:15.331917534Z","actor":"ipanker@sleuth.io","event":"install.removed","target_type":"installation","target":"personal-skill","profile":"gh","data":{"removed_count":1}}
 {"ts":"2026-06-09T12:49:47.718548265Z","actor":"ipanker@sleuth.io","event":"install.set","target_type":"installation","target":"personal-skill","profile":"gh","data":{"kind":"repo","repo":"https://github.com/sleuth-io/pulse"}}
 {"ts":"2026-06-09T12:49:47.718548265Z","actor":"ipanker@sleuth.io","event":"install.set","target_type":"installation","target":"personal-skill","profile":"gh","data":{"kind":"path","paths":["apps/dora","apps/audit"],"repo":"https://github.com/sleuth-io/pulse"}}
+{"ts":"2026-06-09T12:51:49.594919923Z","actor":"ipanker@sleuth.io","event":"bot.created","target_type":"bot","target":"bot-a","profile":"gh","data":{"description":"","teams":null}}
