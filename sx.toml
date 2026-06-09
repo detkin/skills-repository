@@ -218,6 +218,10 @@ created_by = "skills/v1.1.0-dirty"
     kind = "team"
     team = "team-without-admin"
 
+  [[assets.scopes]]
+    kind = "repo"
+    repo = "github.com/sleuth-io/sleuth"
+
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]

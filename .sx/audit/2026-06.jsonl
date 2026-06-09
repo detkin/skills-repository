@@ -7,3 +7,4 @@
 {"ts":"2026-06-09T12:13:17.293807961Z","actor":"ipanker@sleuth.io","event":"install.set","target_type":"installation","target":"personal-skill","profile":"gh","data":{"kind":"user","user":"ipanker@sleuth.io"}}
 {"ts":"2026-06-09T12:43:14.260387787Z","actor":"ipanker@sleuth.io","event":"install.set","target_type":"installation","target":"personal-skill","profile":"gh","data":{"kind":"team","team":"backend"}}
 {"ts":"2026-06-09T12:43:14.260387787Z","actor":"ipanker@sleuth.io","event":"install.set","target_type":"installation","target":"personal-skill","profile":"gh","data":{"kind":"team","team":"team-without-admin"}}
+{"ts":"2026-06-09T12:45:53.026900835Z","actor":"ipanker@sleuth.io","event":"install.set","target_type":"installation","target":"personal-skill","profile":"gh","data":{"kind":"repo","repo":"https://github.com/sleuth-io/sleuth"}}
