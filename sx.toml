@@ -210,10 +210,6 @@ created_by = "skills/v1.1.0-dirty"
     kind = "user"
     user = "ipanker@sleuth.io"
 
-  [[assets.scopes]]
-    kind = "team"
-    team = "frontend"
-
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]
