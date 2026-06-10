@@ -16,3 +16,4 @@
 {"ts":"2026-06-09T12:52:05.149761405Z","actor":"ipanker@sleuth.io","event":"install.set","target_type":"installation","target":"personal-skill","profile":"gh","data":{"bot":"bot-a","kind":"bot"}}
 {"ts":"2026-06-10T11:42:55.179916947Z","actor":"ipanker@sleuth.io","event":"install.set","target_type":"installation","target":"personal-skill","profile":"gh","data":{"kind":"repo","repo":"github.com/sleuth-io/pulse"}}
 {"ts":"2026-06-10T14:25:43.105170462Z","actor":"ipanker@sleuth.io","event":"install.set","target_type":"installation","target":"personal-skill","profile":"gh","data":{"kind":"team","team":"frontend"}}
+{"ts":"2026-06-10T14:28:48.108264844Z","actor":"ipanker@sleuth.io","event":"install.set","target_type":"installation","target":"personal-skill","profile":"gh","data":{"kind":"user","user":"ipanker@sleuth.io"}}
