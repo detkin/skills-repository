@@ -206,10 +206,6 @@ created_by = "skills/v1.1.0-dirty"
   [assets.source-path]
     path = "./assets/personal-skill/1"
 
-  [[assets.scopes]]
-    kind = "user"
-    user = "ipanker@sleuth.io"
-
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]
