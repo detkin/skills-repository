@@ -210,6 +210,10 @@ created_by = "skills/v1.1.0-dirty"
     kind = "user"
     user = "ipanker@sleuth.io"
 
+  [[assets.scopes]]
+    kind = "repo"
+    repo = "github.com/sleuth-io/pulse"
+
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]
