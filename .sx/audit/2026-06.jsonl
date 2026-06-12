@@ -34,3 +34,4 @@
 {"ts":"2026-06-12T11:27:16.360293615Z","actor":"ipanker@sleuth.io","event":"team.admin_set","target_type":"team","target":"my-team","profile":"gh","data":{"member":"ziga@sleuth.io"}}
 {"ts":"2026-06-12T11:30:42.243238925Z","actor":"ipanker@sleuth.io","event":"team.admin_unset","target_type":"team","target":"my-team","profile":"gh","data":{"member":"ipanker@sleuth.io"}}
 {"ts":"2026-06-12T11:39:33.250716247Z","actor":"ipanker@sleuth.io","event":"team.member_removed","target_type":"team","target":"my-team","profile":"gh","data":{"member":"ipanker@sleuth.io"}}
+{"ts":"2026-06-12T11:45:25.329717237Z","actor":"ipanker@sleuth.io","event":"org.admin_added","target_type":"org","target":"org","profile":"gh","data":{"added":["ipanker@sleuth.io"]}}
