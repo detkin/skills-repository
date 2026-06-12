@@ -222,6 +222,17 @@ created_by = "skills/v1.1.0-dirty"
     kind = "team"
     team = "my-team"
 
+[[assets]]
+  name = "personal-skill"
+  version = "2"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/personal-skill/2"
+
+  [[assets.scopes]]
+    kind = "repo"
+    repo = "github.com/sleuth-io/pulse"
+
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]
