@@ -31,3 +31,4 @@
 {"ts":"2026-06-12T09:25:26.050604227Z","actor":"ipanker@sleuth.io","event":"install.removed","target_type":"installation","target":"personal-skill","profile":"gh","data":{"removed_count":2}}
 {"ts":"2026-06-12T09:46:28.559131084Z","actor":"ipanker@sleuth.io","event":"install.set","target_type":"installation","target":"personal-skill","profile":"gh","data":{"kind":"team","team":"my-team"}}
 {"ts":"2026-06-12T11:26:17.563260822Z","actor":"ipanker@sleuth.io","event":"team.member_added","target_type":"team","target":"my-team","profile":"gh","data":{"admin":false,"member":"ziga@sleuth.io"}}
+{"ts":"2026-06-12T11:27:16.360293615Z","actor":"ipanker@sleuth.io","event":"team.admin_set","target_type":"team","target":"my-team","profile":"gh","data":{"member":"ziga@sleuth.io"}}
