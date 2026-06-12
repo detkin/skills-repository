@@ -1,0 +1,8 @@
+[asset]
+  name = "personal-skill"
+  version = "4"
+  type = "skill"
+  description = "Use for personal stuff"
+
+[skill]
+  prompt-file = "SKILL.md"
