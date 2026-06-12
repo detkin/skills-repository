@@ -277,7 +277,7 @@ created_by = "skills/v1.1.0-dirty"
 
 [[teams]]
   name = "my-team"
-  members = ["ipanker@sleuth.io", "ziga@sleuth.io"]
+  members = ["ziga@sleuth.io"]
   admins = ["ziga@sleuth.io"]
 
 [[bots]]
