@@ -207,20 +207,12 @@ created_by = "skills/v1.1.0-dirty"
     path = "./assets/personal-skill/1"
 
   [[assets.scopes]]
-    kind = "user"
-    user = "ipanker@sleuth.io"
-
-  [[assets.scopes]]
     kind = "repo"
     repo = "github.com/sleuth-io/pulse"
 
   [[assets.scopes]]
     kind = "team"
     team = "frontend"
-
-  [[assets.scopes]]
-    kind = "team"
-    team = "my-team"
 
 [[assets]]
   name = "personal-skill"
