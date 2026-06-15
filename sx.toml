@@ -207,8 +207,8 @@ created_by = "skills/v1.1.0-dirty"
     path = "./assets/personal-skill/1"
 
   [[assets.scopes]]
-    kind = "repo"
-    repo = "github.com/sleuth-io/pulse"
+    kind = "user"
+    user = "ipanker@sleuth.io"
 
 [[assets]]
   name = "personal-skill"
@@ -217,20 +217,12 @@ created_by = "skills/v1.1.0-dirty"
   [assets.source-path]
     path = "./assets/personal-skill/2"
 
-  [[assets.scopes]]
-    kind = "repo"
-    repo = "github.com/sleuth-io/pulse"
-
 [[assets]]
   name = "personal-skill"
   version = "3"
   type = "skill"
   [assets.source-path]
     path = "./assets/personal-skill/3"
-
-  [[assets.scopes]]
-    kind = "repo"
-    repo = "github.com/sleuth-io/pulse"
 
 [[assets]]
   name = "personal-skill"
@@ -239,20 +231,12 @@ created_by = "skills/v1.1.0-dirty"
   [assets.source-path]
     path = "./assets/personal-skill/4"
 
-  [[assets.scopes]]
-    kind = "repo"
-    repo = "github.com/sleuth-io/pulse"
-
 [[assets]]
   name = "personal-skill"
   version = "5"
   type = "skill"
   [assets.source-path]
     path = "./assets/personal-skill/5"
-
-  [[assets.scopes]]
-    kind = "repo"
-    repo = "github.com/sleuth-io/pulse"
 
 [[teams]]
   name = "frontend"
