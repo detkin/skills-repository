@@ -284,6 +284,3 @@ created_by = "skills/v1.1.0-dirty"
 
 [[bots]]
   name = "bot-a"
-
-[org]
-  admins = ["ipanker@sleuth.io"]
