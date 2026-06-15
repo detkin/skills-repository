@@ -210,14 +210,6 @@ created_by = "skills/v1.1.0-dirty"
     kind = "repo"
     repo = "github.com/sleuth-io/pulse"
 
-  [[assets.scopes]]
-    kind = "team"
-    team = "frontend"
-
-  [[assets.scopes]]
-    kind = "team"
-    team = "my-team"
-
 [[assets]]
   name = "personal-skill"
   version = "2"
