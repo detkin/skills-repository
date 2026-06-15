@@ -38,3 +38,4 @@
 {"ts":"2026-06-15T13:40:44.29578536Z","actor":"ipanker@sleuth.io","event":"install.set","target_type":"installation","target":"personal-skill","profile":"gh","data":{"kind":"user","user":"ipanker@sleuth.io"}}
 {"ts":"2026-06-15T13:44:15.334661541Z","actor":"ipanker@sleuth.io","event":"install.set","target_type":"installation","target":"personal-skill","profile":"gh","data":{"kind":"team","team":"frontend"}}
 {"ts":"2026-06-15T13:44:15.334661541Z","actor":"ipanker@sleuth.io","event":"install.set","target_type":"installation","target":"personal-skill","profile":"gh","data":{"kind":"team","team":"my-team"}}
+{"ts":"2026-06-15T13:48:03.170578802Z","actor":"ipanker@sleuth.io","event":"install.set","target_type":"installation","target":"personal-skill","profile":"gh","data":{"kind":"user","user":"ipanker@sleuth.io"}}
