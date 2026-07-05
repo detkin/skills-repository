@@ -1,0 +1,9 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "migration-canary"
+  version = "1"
+  type = "skill"
+
+[skill]
+  prompt-file = "SKILL.md"
