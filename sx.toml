@@ -253,6 +253,13 @@ created_by = "skills/v1.1.0-dirty"
   [assets.source-path]
     path = ".sx/versions/personal-skill/6"
 
+[[assets]]
+  name = "migration-canary"
+  version = "1"
+  type = "skill"
+  [assets.source-path]
+    path = ".sx/versions/migration-canary/1"
+
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]

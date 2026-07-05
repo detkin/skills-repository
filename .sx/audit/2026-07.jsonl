@@ -1,1 +1,3 @@
 {"ts":"2026-07-05T19:23:22.590233211Z","actor":"test@example.com","event":"vault.migrated","target_type":"vault","target":"storage-format","profile":"default","data":{"assets":16,"from":1,"to":2}}
+{"ts":"2026-07-05T19:23:24.82162892Z","actor":"test@example.com","event":"asset.recovered","target_type":"asset","target":"migration-canary","profile":"default","data":{"path":".sx/versions/migration-canary/1","recovered_from_storage":true,"source":"path","type":"skill","version":"1"}}
+{"ts":"2026-07-05T19:23:24.82162892Z","actor":"test@example.com","event":"install.set","target_type":"installation","target":"migration-canary","profile":"default","data":{"kind":"org"}}
