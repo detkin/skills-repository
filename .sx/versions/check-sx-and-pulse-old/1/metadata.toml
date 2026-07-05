@@ -1,0 +1,8 @@
+[asset]
+  name = "check-sx-and-pulse-old"
+  version = "1"
+  type = "skill"
+  description = "Call whenever"
+
+[skill]
+  prompt-file = "SKILL.md"

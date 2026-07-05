@@ -1,0 +1,1 @@
+{"ts":"2026-07-05T19:23:22.590233211Z","actor":"test@example.com","event":"vault.migrated","target_type":"vault","target":"storage-format","profile":"default","data":{"assets":16,"from":1,"to":2}}

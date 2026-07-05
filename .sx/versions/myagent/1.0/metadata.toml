@@ -1,0 +1,9 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "myagent"
+  version = "1.0"
+  type = "agent"
+
+[agent]
+  prompt-file = "AGENT.md"

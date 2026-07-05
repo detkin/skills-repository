@@ -1,0 +1,6 @@
+{
+  "name": "skills-repository",
+  "version": "0.1.0",
+  "description": "Skills from the skills-repository sx library",
+  "skills": "./assets"
+}

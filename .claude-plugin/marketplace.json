@@ -1,0 +1,18 @@
+{
+  "name": "skills-repository",
+  "description": "Skills from the skills-repository sx library",
+  "owner": {
+    "name": "skills-repository"
+  },
+  "plugins": [
+    {
+      "name": "skills-repository",
+      "source": "./",
+      "description": "Every skill in this library",
+      "strict": false,
+      "skills": [
+        "./assets"
+      ]
+    }
+  ]
+}
