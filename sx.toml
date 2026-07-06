@@ -273,11 +273,6 @@ created_by = "skills/v1.1.0-dirty"
   admins = ["detkin@sleuth.io"]
 
 [[teams]]
-  name = "team-with-admin-2"
-  members = ["detkin@sleuth.io"]
-  admins = ["detkin@sleuth.io"]
-
-[[teams]]
   name = "my-team"
   members = ["detkin@sleuth.io"]
   admins = ["detkin@sleuth.io"]

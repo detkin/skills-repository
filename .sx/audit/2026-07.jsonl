@@ -8,3 +8,4 @@
 {"ts":"2026-07-06T22:38:18.651501Z","actor":"detkin@sleuth.io","event":"collection.deleted","target_type":"collection","target":"standards"}
 {"ts":"2026-07-06T22:56:31.704644Z","actor":"detkin@sleuth.io","event":"collection.created","target_type":"collection","target":"standards","data":{"assets":0}}
 {"ts":"2026-07-06T22:56:49.873582Z","actor":"detkin@sleuth.io","event":"collection.updated","target_type":"collection","target":"standards","data":{"assets":3}}
+{"ts":"2026-07-06T23:02:11.462384Z","actor":"detkin@sleuth.io","event":"team.deleted","target_type":"team","target":"team-with-admin-2","data":{"unlinked_bots":null}}
