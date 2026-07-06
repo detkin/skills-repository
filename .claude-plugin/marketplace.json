@@ -13,6 +13,17 @@
       "skills": [
         "./assets"
       ]
+    },
+    {
+      "name": "standards",
+      "source": "./",
+      "description": "Skills in the standards collection",
+      "strict": false,
+      "skills": [
+        "./assets/docs-write",
+        "./assets/test-driven-development",
+        "./assets/test-writer"
+      ]
     }
   ]
 }
