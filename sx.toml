@@ -294,5 +294,5 @@ created_by = "skills/v1.1.0-dirty"
 
 [[collections]]
   name = "standards"
-  assets = ["coding-standards", "pql"]
+  assets = ["coding-standards", "pql", "search-object"]
   created_by = "detkin@sleuth.io"
