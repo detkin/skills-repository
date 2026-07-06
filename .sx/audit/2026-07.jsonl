@@ -3,3 +3,4 @@
 {"ts":"2026-07-05T19:23:24.82162892Z","actor":"test@example.com","event":"install.set","target_type":"installation","target":"migration-canary","profile":"default","data":{"kind":"org"}}
 {"ts":"2026-07-06T22:36:35.184846Z","actor":"detkin@sleuth.io","event":"collection.created","target_type":"collection","target":"standards","data":{"assets":0}}
 {"ts":"2026-07-06T22:37:07.627587Z","actor":"detkin@sleuth.io","event":"collection.updated","target_type":"collection","target":"standards","data":{"assets":1}}
+{"ts":"2026-07-06T22:37:09.463044Z","actor":"detkin@sleuth.io","event":"collection.updated","target_type":"collection","target":"standards","data":{"assets":2}}
