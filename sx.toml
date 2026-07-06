@@ -284,3 +284,7 @@ created_by = "skills/v1.1.0-dirty"
   name = "standards"
   assets = ["docs-write", "test-driven-development", "test-writer"]
   created_by = "detkin@sleuth.io"
+
+  [[collections.scopes]]
+    kind = "team"
+    team = "team-with-admin"
