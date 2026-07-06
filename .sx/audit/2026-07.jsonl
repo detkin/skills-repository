@@ -5,3 +5,4 @@
 {"ts":"2026-07-06T22:37:07.627587Z","actor":"detkin@sleuth.io","event":"collection.updated","target_type":"collection","target":"standards","data":{"assets":1}}
 {"ts":"2026-07-06T22:37:09.463044Z","actor":"detkin@sleuth.io","event":"collection.updated","target_type":"collection","target":"standards","data":{"assets":2}}
 {"ts":"2026-07-06T22:37:11.096375Z","actor":"detkin@sleuth.io","event":"collection.updated","target_type":"collection","target":"standards","data":{"assets":3}}
+{"ts":"2026-07-06T22:38:18.651501Z","actor":"detkin@sleuth.io","event":"collection.deleted","target_type":"collection","target":"standards"}
