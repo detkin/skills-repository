@@ -291,3 +291,7 @@ created_by = "skills/v1.1.0-dirty"
 
 [[bots]]
   name = "bot-a"
+
+[[collections]]
+  name = "standards"
+  created_by = "detkin@sleuth.io"
