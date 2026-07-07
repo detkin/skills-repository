@@ -12,3 +12,4 @@
 {"ts":"2026-07-06T23:05:39.987571Z","actor":"detkin@sleuth.io","event":"collection.installed","target_type":"collection","target":"standards","data":{"kind":"team","team":"team-with-admin"}}
 {"ts":"2026-07-07T15:11:45.380105Z","actor":"detkin@sleuth.io","event":"plugin.disabled","target_type":"plugin","target":"leaderboard-widget"}
 {"ts":"2026-07-07T15:11:46.027241Z","actor":"detkin@sleuth.io","event":"plugin.disabled","target_type":"plugin","target":"usage-trends-widget"}
+{"ts":"2026-07-07T15:11:46.659354Z","actor":"detkin@sleuth.io","event":"plugin.disabled","target_type":"plugin","target":"adoption-widget"}
