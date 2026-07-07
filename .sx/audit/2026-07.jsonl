@@ -27,3 +27,4 @@
 {"ts":"2026-07-07T17:38:22.97906Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"smart-templates"}
 {"ts":"2026-07-07T17:38:25.640001Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"style-linter"}
 {"ts":"2026-07-07T17:39:40.650312Z","actor":"detkin@sleuth.io","event":"plugin.disabled","target_type":"plugin","target":"recent-assets"}
+{"ts":"2026-07-07T17:39:54.145849Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"recent-assets"}
