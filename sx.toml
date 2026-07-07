@@ -379,6 +379,13 @@ created_by = "skills/v1.1.0-dirty"
   [assets.source-path]
     path = ".sx/versions/claude-assist/1"
 
+[[assets]]
+  name = "draft-refactor"
+  version = "1"
+  type = "app-plugin"
+  [assets.source-path]
+    path = ".sx/versions/draft-refactor/1"
+
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]
