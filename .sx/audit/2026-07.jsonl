@@ -40,3 +40,4 @@
 {"ts":"2026-07-07T22:32:03.383962Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"related-assets"}
 {"ts":"2026-07-07T22:32:08.95496Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"smart-templates"}
 {"ts":"2026-07-07T22:32:14.453778Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"style-linter"}
+{"ts":"2026-07-07T22:32:38.468872Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"asset-relations"}
