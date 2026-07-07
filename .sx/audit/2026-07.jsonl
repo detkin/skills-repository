@@ -31,3 +31,4 @@
 {"ts":"2026-07-07T18:04:32.455508Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"smart-templates"}
 {"ts":"2026-07-07T18:04:41.44572Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"style-linter"}
 {"ts":"2026-07-07T18:04:46.571754Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"adoption-widget"}
+{"ts":"2026-07-07T18:04:48.888912Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"usage-trends-widget"}
