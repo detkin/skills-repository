@@ -38,3 +38,4 @@
 {"ts":"2026-07-07T22:31:52.370212Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"library-stats"}
 {"ts":"2026-07-07T22:31:57.523159Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"recent-assets"}
 {"ts":"2026-07-07T22:32:03.383962Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"related-assets"}
+{"ts":"2026-07-07T22:32:08.95496Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"smart-templates"}
