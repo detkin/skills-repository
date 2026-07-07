@@ -20,3 +20,4 @@
 {"ts":"2026-07-07T15:59:41.078127Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"recent-assets"}
 {"ts":"2026-07-07T15:59:55.019986Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"related-assets"}
 {"ts":"2026-07-07T16:00:11.481637Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"smart-templates"}
+{"ts":"2026-07-07T16:00:27.411663Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"style-linter"}
