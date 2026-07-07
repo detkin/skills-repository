@@ -1,0 +1,10 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "library-search"
+  version = "1"
+  type = "app-plugin"
+  description = "Ranked full-text search across every asset's content — names, descriptions, headings, and body — with highlighted excerpts. Inspired by Obsidian's Omnisearch."
+
+[skill]
+  prompt-file = "SKILL.md"
