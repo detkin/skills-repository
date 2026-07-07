@@ -442,6 +442,13 @@ created_by = "skills/v1.1.0-dirty"
   [assets.source-path]
     path = ".sx/versions/asset-query/3"
 
+[[assets]]
+  name = "team-digest"
+  version = "2"
+  type = "app-plugin"
+  [assets.source-path]
+    path = ".sx/versions/team-digest/2"
+
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]
