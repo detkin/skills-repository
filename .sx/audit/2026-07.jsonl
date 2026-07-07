@@ -17,3 +17,4 @@
 {"ts":"2026-07-07T15:58:28.189954Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"asset-query"}
 {"ts":"2026-07-07T15:59:04.001896Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"library-search"}
 {"ts":"2026-07-07T15:59:19.149585Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"library-stats"}
+{"ts":"2026-07-07T15:59:41.078127Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"recent-assets"}
