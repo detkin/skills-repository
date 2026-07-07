@@ -51,3 +51,4 @@
 {"ts":"2026-07-07T23:24:36.499714Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"library-board"}
 {"ts":"2026-07-07T23:55:28.81713Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"activity-heatmap"}
 {"ts":"2026-07-07T23:55:33.944938Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"asset-query"}
+{"ts":"2026-07-07T23:55:39.792487Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"team-digest"}
