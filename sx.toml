@@ -316,6 +316,13 @@ created_by = "skills/v1.1.0-dirty"
   [assets.source-path]
     path = ".sx/versions/style-linter/2"
 
+[[assets]]
+  name = "activity-heatmap"
+  version = "2"
+  type = "app-plugin"
+  [assets.source-path]
+    path = ".sx/versions/activity-heatmap/2"
+
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]
