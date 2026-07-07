@@ -11,3 +11,4 @@
 {"ts":"2026-07-06T23:02:11.462384Z","actor":"detkin@sleuth.io","event":"team.deleted","target_type":"team","target":"team-with-admin-2","data":{"unlinked_bots":null}}
 {"ts":"2026-07-06T23:05:39.987571Z","actor":"detkin@sleuth.io","event":"collection.installed","target_type":"collection","target":"standards","data":{"kind":"team","team":"team-with-admin"}}
 {"ts":"2026-07-07T15:11:45.380105Z","actor":"detkin@sleuth.io","event":"plugin.disabled","target_type":"plugin","target":"leaderboard-widget"}
+{"ts":"2026-07-07T15:11:46.027241Z","actor":"detkin@sleuth.io","event":"plugin.disabled","target_type":"plugin","target":"usage-trends-widget"}
