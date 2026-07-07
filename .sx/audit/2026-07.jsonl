@@ -33,3 +33,4 @@
 {"ts":"2026-07-07T18:04:46.571754Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"adoption-widget"}
 {"ts":"2026-07-07T18:04:48.888912Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"usage-trends-widget"}
 {"ts":"2026-07-07T18:04:50.690959Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"leaderboard-widget"}
+{"ts":"2026-07-07T22:31:41.195531Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"activity-heatmap"}
