@@ -414,6 +414,13 @@ created_by = "skills/v1.1.0-dirty"
   [assets.source-path]
     path = ".sx/versions/team-digest/1"
 
+[[assets]]
+  name = "table-tidy"
+  version = "1"
+  type = "app-plugin"
+  [assets.source-path]
+    path = ".sx/versions/table-tidy/1"
+
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]
