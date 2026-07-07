@@ -295,6 +295,13 @@ created_by = "skills/v1.1.0-dirty"
   [assets.source-path]
     path = ".sx/versions/related-assets/1"
 
+[[assets]]
+  name = "smart-templates"
+  version = "1"
+  type = "app-plugin"
+  [assets.source-path]
+    path = ".sx/versions/smart-templates/1"
+
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]
