@@ -22,3 +22,4 @@
 {"ts":"2026-07-07T16:00:11.481637Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"smart-templates"}
 {"ts":"2026-07-07T16:00:27.411663Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"style-linter"}
 {"ts":"2026-07-07T16:06:16.462335Z","actor":"detkin@sleuth.io","event":"plugin.disabled","target_type":"plugin","target":"smart-templates"}
+{"ts":"2026-07-07T16:06:19.232814Z","actor":"detkin@sleuth.io","event":"plugin.disabled","target_type":"plugin","target":"style-linter"}
