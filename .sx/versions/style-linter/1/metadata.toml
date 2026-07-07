@@ -1,0 +1,10 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "style-linter"
+  version = "1"
+  type = "app-plugin"
+  description = "Formatting-consistency checks at publish time — heading hierarchy, whitespace, code-fence languages — with toggleable rules and a whole-library lint. Inspired by Obsidian's Linter."
+
+[skill]
+  prompt-file = "SKILL.md"
