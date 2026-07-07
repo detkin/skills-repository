@@ -15,3 +15,6 @@
 {"ts":"2026-07-07T16:27:12Z","actor":"detkin@sleuth.io","asset_name":"fix-pr","asset_version":"1","asset_type":"skill"}
 {"ts":"2026-07-07T16:33:17Z","actor":"detkin@sleuth.io","asset_name":"fix-pr","asset_version":"1","asset_type":"skill"}
 {"ts":"2026-07-07T16:38:43Z","actor":"detkin@sleuth.io","asset_name":"fix-pr","asset_version":"1","asset_type":"skill"}
+{"ts":"2026-07-07T18:01:01Z","actor":"detkin@sleuth.io","asset_name":"test-skill","asset_version":"1.0.0","asset_type":"skill"}
+{"ts":"2026-07-07T18:01:01Z","actor":"detkin@sleuth.io","asset_name":"integration-skill","asset_version":"1.0.0","asset_type":"skill"}
+{"ts":"2026-07-07T18:01:11Z","actor":"detkin@sleuth.io","asset_name":"fix-pr","asset_version":"1","asset_type":"skill"}
