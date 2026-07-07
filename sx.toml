@@ -275,13 +275,6 @@ created_by = "skills/v1.1.0-dirty"
     path = ".sx/versions/library-stats/1"
 
 [[assets]]
-  name = "recent-assets"
-  version = "1"
-  type = "app-plugin"
-  [assets.source-path]
-    path = ".sx/versions/recent-assets/1"
-
-[[assets]]
   name = "related-assets"
   version = "1"
   type = "app-plugin"
