@@ -43,3 +43,4 @@
 {"ts":"2026-07-07T22:32:38.468872Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"asset-relations"}
 {"ts":"2026-07-07T22:32:44.432077Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"claude-assist"}
 {"ts":"2026-07-07T22:32:50.238065Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"draft-refactor"}
+{"ts":"2026-07-07T22:32:56.414272Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"library-board"}
