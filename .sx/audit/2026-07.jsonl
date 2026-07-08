@@ -59,3 +59,4 @@
 {"ts":"2026-07-08T03:51:09.145385Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"draft-refactor"}
 {"ts":"2026-07-08T03:51:14.862135Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"library-board"}
 {"ts":"2026-07-08T03:51:20.315871Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"library-stats"}
+{"ts":"2026-07-08T03:51:25.662156Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"metric-charts"}
