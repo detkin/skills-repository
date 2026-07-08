@@ -67,3 +67,4 @@
 {"ts":"2026-07-08T03:51:53.078846Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"table-tidy"}
 {"ts":"2026-07-08T17:32:07.133885Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"collection-doctor"}
 {"ts":"2026-07-08T17:32:12.785545Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"collection-export"}
+{"ts":"2026-07-08T17:32:18.56581Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"collection-readme"}
