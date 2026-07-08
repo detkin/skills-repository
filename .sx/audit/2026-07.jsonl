@@ -53,3 +53,4 @@
 {"ts":"2026-07-07T23:55:33.944938Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"asset-query"}
 {"ts":"2026-07-07T23:55:39.792487Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"team-digest"}
 {"ts":"2026-07-08T03:50:46.682641Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"activity-heatmap"}
+{"ts":"2026-07-08T03:50:52.284492Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"asset-query"}
