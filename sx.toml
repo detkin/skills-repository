@@ -456,6 +456,13 @@ created_by = "skills/v1.1.0-dirty"
   [assets.source-path]
     path = ".sx/versions/activity-heatmap/4"
 
+[[assets]]
+  name = "asset-query"
+  version = "4"
+  type = "app-plugin"
+  [assets.source-path]
+    path = ".sx/versions/asset-query/4"
+
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]
