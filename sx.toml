@@ -491,6 +491,13 @@ created_by = "skills/v1.1.0-dirty"
   [assets.source-path]
     path = ".sx/versions/library-board/3"
 
+[[assets]]
+  name = "library-stats"
+  version = "3"
+  type = "app-plugin"
+  [assets.source-path]
+    path = ".sx/versions/library-stats/3"
+
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]
