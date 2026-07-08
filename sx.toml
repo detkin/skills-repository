@@ -540,6 +540,13 @@ created_by = "skills/v1.1.0-dirty"
   [assets.source-path]
     path = ".sx/versions/table-tidy/2"
 
+[[assets]]
+  name = "collection-doctor"
+  version = "1"
+  type = "app-plugin"
+  [assets.source-path]
+    path = ".sx/versions/collection-doctor/1"
+
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]
