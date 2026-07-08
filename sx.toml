@@ -547,6 +547,13 @@ created_by = "skills/v1.1.0-dirty"
   [assets.source-path]
     path = ".sx/versions/collection-doctor/1"
 
+[[assets]]
+  name = "collection-export"
+  version = "1"
+  type = "app-plugin"
+  [assets.source-path]
+    path = ".sx/versions/collection-export/1"
+
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]
