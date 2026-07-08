@@ -73,3 +73,4 @@
 {"ts":"2026-07-08T21:09:43.588777Z","actor":"detkin@sleuth.io","event":"plugin.uninstalled","target_type":"plugin","target":"collection-readme","data":{"scope":"library"}}
 {"ts":"2026-07-08T21:09:56.651371Z","actor":"detkin@sleuth.io","event":"install.set","target_type":"installation","target":"collection-readme","data":{"kind":"user","user":"detkin@sleuth.io"}}
 {"ts":"2026-07-08T21:09:58.579555Z","actor":"detkin@sleuth.io","event":"plugin.installed","target_type":"plugin","target":"collection-readme","data":{"scope":"personal","source":"marketplace","version":"1.0.0"}}
+{"ts":"2026-07-08T21:10:02.46636Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"collection-readme"}
