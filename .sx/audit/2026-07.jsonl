@@ -62,3 +62,4 @@
 {"ts":"2026-07-08T03:51:25.662156Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"metric-charts"}
 {"ts":"2026-07-08T03:51:30.996411Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"related-assets"}
 {"ts":"2026-07-08T03:51:36.367495Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"review-rota"}
+{"ts":"2026-07-08T03:51:41.961636Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"smart-templates"}
