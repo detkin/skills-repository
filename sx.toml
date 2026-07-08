@@ -526,6 +526,13 @@ created_by = "skills/v1.1.0-dirty"
   [assets.source-path]
     path = ".sx/versions/smart-templates/4"
 
+[[assets]]
+  name = "style-linter"
+  version = "4"
+  type = "app-plugin"
+  [assets.source-path]
+    path = ".sx/versions/style-linter/4"
+
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]
