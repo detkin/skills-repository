@@ -505,6 +505,13 @@ created_by = "skills/v1.1.0-dirty"
   [assets.source-path]
     path = ".sx/versions/metric-charts/2"
 
+[[assets]]
+  name = "related-assets"
+  version = "3"
+  type = "app-plugin"
+  [assets.source-path]
+    path = ".sx/versions/related-assets/3"
+
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]
