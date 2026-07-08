@@ -463,6 +463,13 @@ created_by = "skills/v1.1.0-dirty"
   [assets.source-path]
     path = ".sx/versions/asset-query/4"
 
+[[assets]]
+  name = "asset-relations"
+  version = "2"
+  type = "app-plugin"
+  [assets.source-path]
+    path = ".sx/versions/asset-relations/2"
+
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]
