@@ -76,3 +76,4 @@
 {"ts":"2026-07-08T21:10:02.46636Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"collection-readme"}
 {"ts":"2026-07-09T15:31:28.306245Z","actor":"detkin@sleuth.io","event":"plugin.installed","target_type":"plugin","target":"repo-doctor","data":{"scope":"library","source":"marketplace","version":"1.0.0"}}
 {"ts":"2026-07-09T15:31:32.189581Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"repo-doctor"}
+{"ts":"2026-07-09T15:31:40.217741Z","actor":"detkin@sleuth.io","event":"plugin.installed","target_type":"plugin","target":"repo-sync-status","data":{"scope":"library","source":"marketplace","version":"1.0.0"}}
