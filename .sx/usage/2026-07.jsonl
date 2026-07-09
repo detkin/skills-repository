@@ -58,3 +58,4 @@
 {"ts":"2026-07-09T15:31:40.217741Z","actor":"detkin@sleuth.io","asset_name":"repo-sync-status","asset_version":"1.0.0","asset_type":"app-plugin"}
 {"ts":"2026-07-09T15:31:50.918579Z","actor":"detkin@sleuth.io","asset_name":"team-doctor","asset_version":"1.0.0","asset_type":"app-plugin"}
 {"ts":"2026-07-09T15:32:01.886528Z","actor":"detkin@sleuth.io","asset_name":"team-pulse","asset_version":"1.0.0","asset_type":"app-plugin"}
+{"ts":"2026-07-09T23:57:36Z","actor":"detkin@sleuth.io","asset_name":"fix-pr","asset_version":"1","asset_type":"skill"}
