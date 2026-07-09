@@ -81,3 +81,4 @@
 {"ts":"2026-07-09T15:31:50.918579Z","actor":"detkin@sleuth.io","event":"plugin.installed","target_type":"plugin","target":"team-doctor","data":{"scope":"library","source":"marketplace","version":"1.0.0"}}
 {"ts":"2026-07-09T15:31:53.073141Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"team-doctor"}
 {"ts":"2026-07-09T15:32:01.886528Z","actor":"detkin@sleuth.io","event":"plugin.installed","target_type":"plugin","target":"team-pulse","data":{"scope":"library","source":"marketplace","version":"1.0.0"}}
+{"ts":"2026-07-09T15:32:04.030361Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"team-pulse"}
