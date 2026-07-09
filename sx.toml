@@ -565,6 +565,13 @@ created_by = "skills/v1.1.0-dirty"
     kind = "user"
     user = "detkin@sleuth.io"
 
+[[assets]]
+  name = "repo-doctor"
+  version = "1"
+  type = "app-plugin"
+  [assets.source-path]
+    path = ".sx/versions/repo-doctor/1"
+
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]
