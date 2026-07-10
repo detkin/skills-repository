@@ -625,6 +625,13 @@ created_by = "skills/v1.1.0-dirty"
   [assets.source-path]
     path = ".sx/versions/repo-sync-status/2"
 
+[[assets]]
+  name = "team-doctor"
+  version = "2"
+  type = "app-plugin"
+  [assets.source-path]
+    path = ".sx/versions/team-doctor/2"
+
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]
