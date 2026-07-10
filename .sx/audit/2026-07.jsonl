@@ -82,3 +82,4 @@
 {"ts":"2026-07-09T15:31:53.073141Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"team-doctor"}
 {"ts":"2026-07-09T15:32:01.886528Z","actor":"detkin@sleuth.io","event":"plugin.installed","target_type":"plugin","target":"team-pulse","data":{"scope":"library","source":"marketplace","version":"1.0.0"}}
 {"ts":"2026-07-09T15:32:04.030361Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"team-pulse"}
+{"ts":"2026-07-10T00:55:06.993691Z","actor":"detkin@sleuth.io","event":"install.set","target_type":"installation","target":"claude-assist","profile":"personal-git-test","data":{"kind":"user","user":"detkin@sleuth.io"}}

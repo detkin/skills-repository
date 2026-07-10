@@ -379,6 +379,10 @@ created_by = "skills/v1.1.0-dirty"
   [assets.source-path]
     path = ".sx/versions/claude-assist/1"
 
+  [[assets.scopes]]
+    kind = "user"
+    user = "detkin@sleuth.io"
+
 [[assets]]
   name = "draft-refactor"
   version = "1"
