@@ -97,3 +97,4 @@
 {"ts":"2026-07-10T03:08:45.444313Z","actor":"detkin@sleuth.io","event":"plugin.updated","target_type":"plugin","target":"repo-sync-status","data":{"scope":"library","source":"marketplace","version":"1.0.2"}}
 {"ts":"2026-07-10T03:08:47.404888Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"repo-sync-status"}
 {"ts":"2026-07-10T03:08:53.406191Z","actor":"detkin@sleuth.io","event":"plugin.updated","target_type":"plugin","target":"team-doctor","data":{"scope":"library","source":"marketplace","version":"1.0.2"}}
+{"ts":"2026-07-10T03:08:55.556073Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"team-doctor"}
