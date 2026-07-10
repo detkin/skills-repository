@@ -67,3 +67,4 @@
 {"ts":"2026-07-10T02:49:39.003731Z","actor":"detkin@sleuth.io","asset_name":"recent-assets","asset_version":"1.0.3","asset_type":"app-plugin"}
 {"ts":"2026-07-10T03:08:24.149566Z","actor":"detkin@sleuth.io","asset_name":"activity-heatmap","asset_version":"1.0.6","asset_type":"app-plugin"}
 {"ts":"2026-07-10T03:08:37.105839Z","actor":"detkin@sleuth.io","asset_name":"repo-doctor","asset_version":"1.0.2","asset_type":"app-plugin"}
+{"ts":"2026-07-10T03:08:45.444313Z","actor":"detkin@sleuth.io","asset_name":"repo-sync-status","asset_version":"1.0.2","asset_type":"app-plugin"}
