@@ -65,3 +65,4 @@
 {"ts":"2026-07-10T00:19:43Z","actor":"detkin@sleuth.io","asset_name":"fix-pr","asset_version":"1","asset_type":"skill"}
 {"ts":"2026-07-10T00:45:52Z","actor":"detkin@sleuth.io","asset_name":"fix-pr","asset_version":"21","asset_type":"skill"}
 {"ts":"2026-07-10T02:49:39.003731Z","actor":"detkin@sleuth.io","asset_name":"recent-assets","asset_version":"1.0.3","asset_type":"app-plugin"}
+{"ts":"2026-07-10T03:08:24.149566Z","actor":"detkin@sleuth.io","asset_name":"activity-heatmap","asset_version":"1.0.6","asset_type":"app-plugin"}
