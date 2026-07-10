@@ -85,3 +85,4 @@
 {"ts":"2026-07-10T00:55:06.993691Z","actor":"detkin@sleuth.io","event":"install.set","target_type":"installation","target":"claude-assist","profile":"personal-git-test","data":{"kind":"user","user":"detkin@sleuth.io"}}
 {"ts":"2026-07-10T00:56:16.352284Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"claude-assist"}
 {"ts":"2026-07-10T02:49:31.126233Z","actor":"detkin@sleuth.io","event":"plugin.disabled","target_type":"plugin","target":"recent-assets"}
+{"ts":"2026-07-10T02:49:32.299108Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"recent-assets"}
