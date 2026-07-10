@@ -88,3 +88,4 @@
 {"ts":"2026-07-10T02:49:32.299108Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"recent-assets"}
 {"ts":"2026-07-10T02:49:39.003731Z","actor":"detkin@sleuth.io","event":"plugin.updated","target_type":"plugin","target":"recent-assets","data":{"scope":"library","source":"marketplace","version":"1.0.3"}}
 {"ts":"2026-07-10T02:49:42.993281Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"recent-assets"}
+{"ts":"2026-07-10T02:49:44.814494Z","actor":"detkin@sleuth.io","event":"plugin.disabled","target_type":"plugin","target":"recent-assets"}
