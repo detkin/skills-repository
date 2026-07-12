@@ -664,6 +664,13 @@ created_by = "skills/v1.1.0-dirty"
   [assets.source-path]
     path = ".sx/versions/skill-evals/2"
 
+[[assets]]
+  name = "recent-assets"
+  version = "4"
+  type = "app-plugin"
+  [assets.source-path]
+    path = ".sx/versions/recent-assets/4"
+
 [[teams]]
   name = "frontend"
   admins = ["mzgajner@sleuth.io"]
