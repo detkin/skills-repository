@@ -106,3 +106,4 @@
 {"ts":"2026-07-12T03:44:08.754924Z","actor":"detkin@sleuth.io","event":"plugin.updated","target_type":"plugin","target":"recent-assets","data":{"scope":"library","source":"marketplace","version":"1.0.4"}}
 {"ts":"2026-07-12T03:44:10.703875Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"recent-assets"}
 {"ts":"2026-07-12T03:44:30.200592Z","actor":"detkin@sleuth.io","event":"install.set","target_type":"installation","target":"skill-evals","profile":"personal-git-test","data":{"kind":"user","user":"detkin@sleuth.io"}}
+{"ts":"2026-07-12T23:53:59.247256Z","actor":"detkin@sleuth.io","event":"install.set","target_type":"installation","target":"skill-evals","profile":"personal-git-test","data":{"kind":"user","user":"detkin@sleuth.io"}}
