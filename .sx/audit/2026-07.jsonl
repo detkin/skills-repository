@@ -102,3 +102,4 @@
 {"ts":"2026-07-10T03:09:03.51992Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"team-pulse"}
 {"ts":"2026-07-12T03:27:18.26781Z","actor":"detkin@sleuth.io","event":"asset.recovered","target_type":"asset","target":"skill-evals","profile":"personal-git-test","data":{"path":".sx/versions/skill-evals/1","recovered_from_storage":true,"source":"path","type":"app-plugin","version":"1"}}
 {"ts":"2026-07-12T03:27:18.26781Z","actor":"detkin@sleuth.io","event":"install.set","target_type":"installation","target":"skill-evals","profile":"personal-git-test","data":{"kind":"user","user":"detkin@sleuth.io"}}
+{"ts":"2026-07-12T03:27:49.494673Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"skill-evals"}
