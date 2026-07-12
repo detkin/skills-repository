@@ -72,3 +72,4 @@
 {"ts":"2026-07-10T03:09:01.44661Z","actor":"detkin@sleuth.io","asset_name":"team-pulse","asset_version":"1.0.2","asset_type":"app-plugin"}
 {"ts":"2026-07-12T03:35:22Z","actor":"detkin@sleuth.io","asset_name":"fix-pr","asset_version":"21","asset_type":"skill"}
 {"ts":"2026-07-12T03:37:19Z","actor":"detkin@sleuth.io","asset_name":"fix-pr","asset_version":"1","asset_type":"skill"}
+{"ts":"2026-07-12T03:44:08.754924Z","actor":"detkin@sleuth.io","asset_name":"recent-assets","asset_version":"1.0.4","asset_type":"app-plugin"}
