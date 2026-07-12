@@ -1,0 +1,94 @@
+{
+  "evals": [
+    {
+      "eval_key": "canary-body-revision",
+      "prompt": "What body revision does the migration-canary skill currently report?",
+      "expected_output": "The reply states that the skill body is revision v1, e.g. \"Body revision v1 for migration testing.\"",
+      "expectations": [
+        "The reply identifies the body revision as v1",
+        "The reply refers to the migration-canary skill or migration testing context"
+      ],
+      "category": "basic",
+      "is_active": true
+    },
+    {
+      "eval_key": "canary-skill-description",
+      "prompt": "Give me the exact description line of the migration-canary skill.",
+      "expected_output": "The reply quotes the description: \"Test skill migration-canary (rev v1)\".",
+      "expectations": [
+        "The reply contains the text \"Test skill migration-canary\"",
+        "The reply includes the revision marker \"rev v1\" or \"v1\""
+      ],
+      "category": "basic",
+      "is_active": true
+    },
+    {
+      "eval_key": "canary-run-script-output",
+      "prompt": "If I execute scripts/run.sh from the migration-canary skill, what will it print to stdout?",
+      "expected_output": "The reply says the script echoes the string \"migration-canary-v1\".",
+      "expectations": [
+        "The reply states the output is exactly \"migration-canary-v1\"",
+        "The reply attributes the output to the run.sh script or an echo command"
+      ],
+      "category": "basic",
+      "is_active": true
+    },
+    {
+      "eval_key": "canary-reference-guide-content",
+      "prompt": "What does the references/guide.md file in the migration-canary skill contain?",
+      "expected_output": "The reply states that guide.md contains the text \"reference doc for migration-canary rev v1\".",
+      "expectations": [
+        "The reply includes the phrase \"reference doc for migration-canary\" or an accurate paraphrase of that content",
+        "The reply indicates the content corresponds to revision v1"
+      ],
+      "category": "basic",
+      "is_active": true
+    },
+    {
+      "eval_key": "canary-list-bundled-files",
+      "prompt": "List all the files bundled with the migration-canary skill besides SKILL.md.",
+      "expected_output": "The reply lists references/guide.md, references/naïve-ünicode.md, scripts/blob.bin, and scripts/run.sh.",
+      "expectations": [
+        "The reply mentions guide.md",
+        "The reply mentions a unicode-named markdown file (naïve-ünicode.md)",
+        "The reply mentions blob.bin",
+        "The reply mentions run.sh"
+      ],
+      "category": "basic",
+      "is_active": true
+    },
+    {
+      "eval_key": "canary-skill-name",
+      "prompt": "What is the name of this canary skill used for migration testing, and what revision is it at?",
+      "expected_output": "The reply states the skill is named migration-canary and is at revision v1.",
+      "expectations": [
+        "The reply states the skill name is \"migration-canary\"",
+        "The reply states the revision is v1"
+      ],
+      "category": "basic",
+      "is_active": true
+    },
+    {
+      "eval_key": "canary-unicode-filename",
+      "prompt": "One of the migration-canary reference files has non-ASCII characters in its filename. What is that file called and what text is inside it?",
+      "expected_output": "The reply names the file naïve-ünicode.md (with the accented characters) and says its content is \"unicode filename content v1\".",
+      "expectations": [
+        "The reply gives the filename containing the accented characters, e.g. \"naïve-ünicode.md\"",
+        "The reply states the file content is \"unicode filename content v1\" or an accurate quote of it"
+      ],
+      "category": "edge-case",
+      "is_active": true
+    },
+    {
+      "eval_key": "canary-blob-character",
+      "prompt": "The migration-canary skill ships a scripts/blob.bin file. What single character is that file made up of?",
+      "expected_output": "The reply states that blob.bin consists of a long repeated run of the character \"7\".",
+      "expectations": [
+        "The reply identifies the repeated character as \"7\"",
+        "The reply conveys that the file is a repetition of that single character (e.g. describes it as repeated or filled with 7s)"
+      ],
+      "category": "edge-case",
+      "is_active": true
+    }
+  ]
+}
