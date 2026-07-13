@@ -111,3 +111,4 @@
 {"ts":"2026-07-13T01:10:52.026848Z","actor":"detkin@sleuth.io","event":"plugin.disabled","target_type":"plugin","target":"skill-evals"}
 {"ts":"2026-07-13T01:10:56.07693Z","actor":"detkin@sleuth.io","event":"plugin.uninstalled","target_type":"plugin","target":"skill-evals","data":{"scope":"personal"}}
 {"ts":"2026-07-13T02:21:44.345064Z","actor":"detkin@sleuth.io","event":"plugin.installed","target_type":"plugin","target":"skill-evals","data":{"scope":"library","source":"marketplace","version":"1.0.0"}}
+{"ts":"2026-07-13T02:21:46.43955Z","actor":"detkin@sleuth.io","event":"plugin.enabled","target_type":"plugin","target":"skill-evals"}
