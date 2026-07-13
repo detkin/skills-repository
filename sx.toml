@@ -640,29 +640,11 @@ created_by = "skills/v1.1.0-dirty"
     path = ".sx/versions/team-pulse/2"
 
 [[assets]]
-  name = "skill-evals"
-  version = "1"
-  type = "app-plugin"
-  [assets.source-path]
-    path = ".sx/versions/skill-evals/1"
-
-  [[assets.scopes]]
-    kind = "user"
-    user = "detkin@sleuth.io"
-
-[[assets]]
   name = "migration-canary"
   version = "2"
   type = "skill"
   [assets.source-path]
     path = ".sx/versions/migration-canary/2"
-
-[[assets]]
-  name = "skill-evals"
-  version = "2"
-  type = "app-plugin"
-  [assets.source-path]
-    path = ".sx/versions/skill-evals/2"
 
 [[assets]]
   name = "recent-assets"
