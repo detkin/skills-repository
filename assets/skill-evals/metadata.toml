@@ -1,0 +1,10 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "skill-evals"
+  version = "1"
+  type = "app-plugin"
+  description = "Generate evals for skills, benchmark them with-vs-without the skill using your AI provider, and see which skills actually earn their keep — including retire candidates the baseline already passes."
+
+[skill]
+  prompt-file = "SKILL.md"
