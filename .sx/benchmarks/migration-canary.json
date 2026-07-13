@@ -1,0 +1,99 @@
+{
+  "benchmarks": [
+    {
+      "at": "2026-07-13T00:10:58.149Z",
+      "source": "app",
+      "executor": {
+        "provider": "claude-cli",
+        "model": ""
+      },
+      "runs_per_config": 1,
+      "by": "detkin@sleuth.io",
+      "summary": {
+        "with_skill": {
+          "pass_rate": {
+            "mean": 1,
+            "stddev": 0
+          },
+          "time_seconds": {
+            "mean": 21.34
+          },
+          "tokens": {
+            "mean": 523
+          }
+        },
+        "without_skill": {
+          "pass_rate": {
+            "mean": 1,
+            "stddev": 0
+          },
+          "time_seconds": {
+            "mean": 39.99
+          },
+          "tokens": {
+            "mean": 1904
+          }
+        },
+        "delta": {
+          "pass_rate": 0,
+          "time_seconds": -18.65,
+          "tokens": -1381
+        }
+      },
+      "per_eval": [
+        {
+          "eval_key": "canary-body-revision",
+          "with_pass": 1,
+          "without_pass": 1,
+          "status": "non_discriminating"
+        },
+        {
+          "eval_key": "canary-skill-description",
+          "with_pass": 1,
+          "without_pass": 1,
+          "status": "non_discriminating"
+        },
+        {
+          "eval_key": "canary-run-script-output",
+          "with_pass": 1,
+          "without_pass": 1,
+          "status": "non_discriminating"
+        },
+        {
+          "eval_key": "canary-reference-guide-content",
+          "with_pass": 1,
+          "without_pass": 1,
+          "status": "non_discriminating"
+        },
+        {
+          "eval_key": "canary-list-bundled-files",
+          "with_pass": 1,
+          "without_pass": 1,
+          "status": "non_discriminating"
+        },
+        {
+          "eval_key": "canary-skill-name",
+          "with_pass": 1,
+          "without_pass": 1,
+          "status": "non_discriminating"
+        },
+        {
+          "eval_key": "canary-unicode-filename",
+          "with_pass": 1,
+          "without_pass": 1,
+          "status": "non_discriminating"
+        },
+        {
+          "eval_key": "canary-blob-character",
+          "with_pass": 1,
+          "without_pass": 1,
+          "status": "non_discriminating"
+        }
+      ],
+      "notes": [
+        "no improvement over baseline"
+      ],
+      "skill_hash": "885fb928"
+    }
+  ]
+}
